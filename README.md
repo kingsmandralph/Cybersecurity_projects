@@ -1,8 +1,5 @@
-# Cybersecurity_projects
-****Port Scanner-****
-->This is used to scan ports on a network. 
------------------------------------------
-Just like it's predecessor Nmap
-------------------------------------------
-Suggestions to edit the code are very welcome :)
--------------------------------------------
+## Cybersecurity project
+****Simple Port Scanner****
+- Used to scan various ports on a webserver and discover hosts on a network
+
+
